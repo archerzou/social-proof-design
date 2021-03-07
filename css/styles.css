@@ -60,7 +60,7 @@ h2 {
 .ratings li {
     background-color: var(--color-neutral-light-grayish-magenta);
     border-radius: 8px;
-    padding: 1.6rem;
+    padding: 1.6rem 6rem 1.6rem 3.2rem;
 }
 
 .ratings > * + * {
